@@ -1,0 +1,41 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>My Portfolio</title>
+</head>
+<body>
+	<h1>My Portfolio</h1>
+	<nav>
+		<ul>
+			<li><a href="#projects">Projects</a></li>
+			<li><a href="#about">About</a></li>
+			<li><a href="#contact">Contact</a></li>
+		</ul>
+	</nav>
+	<main>
+		<section id="projects">
+			<h2>Projects</h2>
+			<div>
+			</div>
+			<div>
+				<h3>NAVIGATION BAR</h3>
+				<p>A navigation bar wiyh best work</p></p>
+			</div>
+		</section>
+		<section id="about">
+			<h2>About</h2>
+			<p>Webdeveloper,baker, graphics designer and expert in css, JavaScript,and html</p>
+		</section>
+		<section id="contact">
+			<h2>Contact</h2>
+			<p>0700215375</p>
+		</section>
+	</main>
+	<footer>
+		<p>&copy; daphia</p>
+	</footer>
+</body>
+</html>
+
+
